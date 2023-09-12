@@ -1,8 +1,9 @@
 # Portfolio
 
 ### Education
-B.S., Data Theory | University of California Los Angeles 
-(September 2022 - Present)
+B.S. Data Theory, 
+
+University of California Los Angeles (September 2022 - Present)
 
 ### Projects
 #### Cyclistic Case Study
