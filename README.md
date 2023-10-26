@@ -13,5 +13,3 @@ Worked with real-world data from a bike-share company to determine the differenc
 
 ### Certifications & Licenses
 Google Data Analytics Certificate (September 2023)
-
-[Resume](users/dawit/desktop/Dawit Yilma_Resume.pdf)
