@@ -11,5 +11,8 @@ University of California Los Angeles (September 2022 - Present)
 
 Worked with real-world data from a bike-share company to determine the differences between casual riders and riders with a membership. Processed, cleaned, analyzed, and visualized the data using R to understand the differences between casual riders and membership riders. Provided recommendations on how to market the membership program to casual riders using data analysis.
 
+#### NBA Data Analysis
+[Publication](nba_data_analysis.ipynb)
+
 ### Certifications & Licenses
 Google Data Analytics Certificate (September 2023)
