@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Education
-B.S. Data Theory, 
+B.S. Statistics and Data Science, 
 
 University of California Los Angeles (September 2022 - Present)
 
