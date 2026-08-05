@@ -1,9 +1,9 @@
 # Portfolio
 
 ### Education
-B.S. Statistics and Data Science, 
+B.S. Statistics and Data Science, B.A. Economics
 
-University of California Los Angeles (September 2022 - Present)
+University of California Los Angeles (Graduated June 2026)
 
 ### Projects
 #### Cyclistic Case Study
