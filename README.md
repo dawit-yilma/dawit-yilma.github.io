@@ -3,6 +3,7 @@
 ### Education
 
 B.S. Statistics and Data Science
+
 B.A. Economics
 
 University of California Los Angeles (Graduated June 2026)
